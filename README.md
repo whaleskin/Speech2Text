@@ -1,5 +1,5 @@
 # 🔢 OBS MODULO 10 - *Speech and Text Analytics*
-![Speech to Text]<img src="https://i.ibb.co/HD5cnHdr/text2speech.png" alt="text2speech" border="0">
+<img src="https://i.ibb.co/HD5cnHdr/text2speech.png" alt="text2speech" border="0">
 
 Este repositorio contiene el código que hemos desarrollado durante el máster de IA en OBS para:
 
