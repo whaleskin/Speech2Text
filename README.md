@@ -1,5 +1,5 @@
 # 🔢 OBS MODULO 10 - *Speech and Text Analytics*
-![Speech to Text](https://i.ibb.co/8WpvNRf/Chat-GPT-Image-Feb-1-2026-05-52-53-PM.png)
+![Speech to Text](https://ibb.co/JjXyb9Yr)
 
 Este repositorio contiene el código que hemos desarrollado durante el máster de IA en OBS para:
 
